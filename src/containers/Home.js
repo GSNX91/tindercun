@@ -6,7 +6,7 @@ export default function Home() {
     <div className="Home">
       <div className="lander">
         <h1>Tindercun</h1>
-        <p>Let's find your ddddsoulmate.</p>
+        <p>Let's find your soulmate.</p>
       </div>
     </div>
   );
