@@ -18,7 +18,7 @@ export default function Login(props) {
     <div className="Login">
       <form onSubmit={handleSubmit}>
         <FormGroup controlId="email" bsSize="large">
-          <img class="img-responsive" src="smate.png"></img>
+          <img class="img-responsive" src="igmamor.png"></img>
           <ControlLabel>Email</ControlLabel>
           <FormControl
             autoFocus

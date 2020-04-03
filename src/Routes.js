@@ -5,6 +5,7 @@ import NotFound from "./containers/NotFound";
 import Login from "./containers/Login";
 import AppliedRoute from "./components/AppliedRoute";
 
+
 export default function Routes({ appProps }) {
   return (
     <Switch>
